@@ -8,4 +8,6 @@
 
 Front-end practice for future front-end developers
 
-## Original design - [Figma](https://www.figma.com/file/Ew97d7p7plhSN2knP4nyPQ/TasteEat-%2B?node-id=2%3A2)
+* Original design - [Figma](https://www.figma.com/file/Ew97d7p7plhSN2knP4nyPQ/TasteEat-%2B?node-id=2%3A2)
+* For contributors - [CONTRIBUTERS.md](CONTRIBUTERS.md)
+* Roadmap - [ROADMAP.md](ROADMAP.md)
