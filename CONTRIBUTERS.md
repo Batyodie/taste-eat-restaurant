@@ -42,16 +42,21 @@
 Конфиг [настроек](https://drive.google.com/file/d/1fWSgDrolqzIjj7PeLclsIrptjERDoq2D/view?usp=sharing)
 
 ### Локальная разработка
+1. Добавить ssh ключ
 
-1. Склонировать репозиторий
+```bash
+$ ssh-keygen -t ed25519 -C "your_email@example.com"
+```
+
+2. Склонировать репозиторий
 ```bash
 $ git clone git@github.com:Batyodie/taste-eat-restaurant.git
 ```
-2. Установить зависимости
+3. Установить зависимости
 ```bash
 $ npm install
 ```
-3. Запустить проект
+4. Запустить проект
 ```bash
 $ npm run dev
 ```
