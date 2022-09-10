@@ -1,0 +1,29 @@
+{
+  "name": "taste-eat-restaurant",
+  "version": "0.0.1",
+  "description": "front-end web site for restaurant taste-eat",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ws --spa src/index.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Batyodie/taste-eat-restaurant.git"
+  },
+  "keywords": [
+    "web-site",
+    "front-end",
+    "layouting",
+    "javascript"
+  ],
+  "author": "Simens[gr.s.joe@gmail.com]",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Batyodie/taste-eat-restaurant/issues"
+  },
+  "homepage": "https://github.com/Batyodie/taste-eat-restaurant#readme",
+  "dependencies": {
+    "local-web-server": "^5.2.1"
+  }
+}
