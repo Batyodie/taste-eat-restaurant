@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "formulahendry.auto-rename-tag",
+    "mikestead.dotenv",
+    "EditorConfig.EditorConfig",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "esbenp.prettier-vscode",
+    "stylelint.vscode-stylelint"
+  ]
+}
